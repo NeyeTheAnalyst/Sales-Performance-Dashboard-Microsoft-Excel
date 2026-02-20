@@ -6,7 +6,7 @@ This project is an interactive Sales Performance Dashboard developed in Microsof
 
 The dashboard was designed to support data-driven decision-making by presenting key performance indicators (KPIs), trend analysis, and performance breakdowns in a clear and structured format.
 
-(![Dashboard Preview](dashboard19.png))
+![Dashboard Preview](dashboard19.png)
 
 **Objectives**
 
