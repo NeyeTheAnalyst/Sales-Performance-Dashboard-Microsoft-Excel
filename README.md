@@ -65,9 +65,9 @@ I’m always open to opportunities, collaborations, and conversations around dat
 
 **Email:** matildaeyubeh@gmail.com
 
-**LinkedIn** https://linkedin.com/in/matildaeyubeh
+**LinkedIn:** https://linkedin.com/in/matildaeyubeh
 
-**GitHub** https://github.com/NeyeTheAnalyst
+**GitHub:** https://github.com/NeyeTheAnalyst
 
 **Let’s Connect If You’re:**
 
